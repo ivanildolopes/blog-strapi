@@ -15,7 +15,8 @@
     "@strapi/provider-upload-cloudinary": "^4.1.9",
     "@strapi/strapi": "4.1.9",
     "cloudinary": "^1.29.1",
-    "pg": "^8.6.0"
+    "pg": "^8.6.0",
+    "pg-connection-string": "^2.5.0"
   },
   "author": {
     "name": "A Strapi developer"
